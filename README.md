@@ -10,6 +10,8 @@ En este repo podrán encontrar el approach elegido para desarrollar para el plan
 
 <img src="img/answer.png" width="70%"  />
 
-**Por último un par de ejemplos de respuestas de error se visualizan a continuación:**
+**Por último un par de ejemplos de respuestas de error (aplicando las validaciones requeridas) se visualizan a continuación:**
 
-<img src="img/answer_error.png" width="70%"  />
+<img src="img/answer_error1.png" width="70%"  />
+
+<img src="img/answer_error2.png" width="70%"  />
