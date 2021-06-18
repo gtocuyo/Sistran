@@ -1,0 +1,12 @@
+C:\Desarrollo\Sistran_API\Sistran.DataAccess\obj\Debug\netcoreapp3.1\Sistran.DataAccess.csprojAssemblyReference.cache
+C:\Desarrollo\Sistran_API\Sistran.DataAccess\obj\Debug\netcoreapp3.1\Sistran.DataAccess.AssemblyInfoInputs.cache
+C:\Desarrollo\Sistran_API\Sistran.DataAccess\obj\Debug\netcoreapp3.1\Sistran.DataAccess.AssemblyInfo.cs
+C:\Desarrollo\Sistran_API\Sistran.DataAccess\obj\Debug\netcoreapp3.1\Sistran.DataAccess.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Sistran_API\Sistran.DataAccess\bin\Debug\netcoreapp3.1\Sistran.DataAccess.deps.json
+C:\Desarrollo\Sistran_API\Sistran.DataAccess\bin\Debug\netcoreapp3.1\Sistran.DataAccess.dll
+C:\Desarrollo\Sistran_API\Sistran.DataAccess\bin\Debug\netcoreapp3.1\Sistran.DataAccess.pdb
+C:\Desarrollo\Sistran_API\Sistran.DataAccess\bin\Debug\netcoreapp3.1\Sistran.BusinessObjects.dll
+C:\Desarrollo\Sistran_API\Sistran.DataAccess\bin\Debug\netcoreapp3.1\Sistran.BusinessObjects.pdb
+C:\Desarrollo\Sistran_API\Sistran.DataAccess\obj\Debug\netcoreapp3.1\Sistran.DataAccess.csproj.CopyComplete
+C:\Desarrollo\Sistran_API\Sistran.DataAccess\obj\Debug\netcoreapp3.1\Sistran.DataAccess.dll
+C:\Desarrollo\Sistran_API\Sistran.DataAccess\obj\Debug\netcoreapp3.1\Sistran.DataAccess.pdb

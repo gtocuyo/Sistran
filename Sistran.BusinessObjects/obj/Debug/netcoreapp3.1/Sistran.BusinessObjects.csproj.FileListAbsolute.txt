@@ -1,0 +1,9 @@
+C:\Desarrollo\Sistran_API\Sistran.BusinessObjects\bin\Debug\netcoreapp3.1\Sistran.BusinessObjects.deps.json
+C:\Desarrollo\Sistran_API\Sistran.BusinessObjects\bin\Debug\netcoreapp3.1\Sistran.BusinessObjects.dll
+C:\Desarrollo\Sistran_API\Sistran.BusinessObjects\bin\Debug\netcoreapp3.1\Sistran.BusinessObjects.pdb
+C:\Desarrollo\Sistran_API\Sistran.BusinessObjects\obj\Debug\netcoreapp3.1\Sistran.BusinessObjects.AssemblyInfoInputs.cache
+C:\Desarrollo\Sistran_API\Sistran.BusinessObjects\obj\Debug\netcoreapp3.1\Sistran.BusinessObjects.AssemblyInfo.cs
+C:\Desarrollo\Sistran_API\Sistran.BusinessObjects\obj\Debug\netcoreapp3.1\Sistran.BusinessObjects.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Sistran_API\Sistran.BusinessObjects\obj\Debug\netcoreapp3.1\Sistran.BusinessObjects.dll
+C:\Desarrollo\Sistran_API\Sistran.BusinessObjects\obj\Debug\netcoreapp3.1\Sistran.BusinessObjects.pdb
+C:\Desarrollo\Sistran_API\Sistran.BusinessObjects\obj\Debug\netcoreapp3.1\Sistran.BusinessObjects.csprojAssemblyReference.cache

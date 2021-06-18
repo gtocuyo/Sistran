@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Sistran.DataAccess/1.0.0": {
+        "dependencies": {
+          "Sistran.BusinessObjects": "1.0.0"
+        },
+        "runtime": {
+          "Sistran.DataAccess.dll": {}
+        }
+      },
+      "Sistran.BusinessObjects/1.0.0": {
+        "runtime": {
+          "Sistran.BusinessObjects.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sistran.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Sistran.BusinessObjects/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
